@@ -9,4 +9,4 @@ items:
   - path: /gin/sessions
   - path: /gin/utils
   - path: /grpc/schema
-  - path: /k8s/utils
+  - path: /k8s/utils/go
