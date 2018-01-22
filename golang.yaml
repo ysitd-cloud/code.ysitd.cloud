@@ -1,0 +1,12 @@
+kind: GoPackage
+apiVersion: v1alpha1
+items:
+  - path: /common/go
+  - path: /component/account
+  - path: /component/deployer
+  - path: /component/status
+  - path: /gin/jet
+  - path: /gin/sessions
+  - path: /gin/utils
+  - path: /grpc/schema
+  - path: /k8s/utils
