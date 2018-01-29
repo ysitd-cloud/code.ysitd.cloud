@@ -2,3 +2,5 @@ kind: CodeList
 apiVersion: v1alpha1
 items:
   - path: /golang.yaml
+    kind: GoPackages
+    apiVersion: v1alpha1
