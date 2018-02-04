@@ -4,3 +4,6 @@ items:
   - path: /golang.yaml
     kind: GoPackages
     apiVersion: v1alpha1
+  - path: /go-toolkit.yaml
+    kind: GoPackages
+    apiVersion: v1alpha1
