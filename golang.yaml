@@ -19,5 +19,3 @@ items:
     source: https://github.com/ysitd-cloud/grpc-schema
   - path: /k8s/utils/go
     source: https://github.com/ysitd-cloud/k8s-utils
-  - path: /toolkit/feature
-    source: https://github.com/ysitd-cloud/go-toolkit-feature
