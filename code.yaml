@@ -7,3 +7,6 @@ items:
   - path: /go-toolkit.yaml
     kind: GoPackages
     apiVersion: v1alpha1
+  - path: /aviation.yaml
+    kind: GoPackages
+    apiVersion: v1alpha1

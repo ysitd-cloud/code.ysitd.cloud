@@ -1,0 +1,5 @@
+kind: GoPackages
+apiVersion: v1alpha1
+items:
+  - path: /component/aviation/runway
+    source: https://bitbucket.org/ysitd-cloud/runway.git
