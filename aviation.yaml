@@ -3,3 +3,5 @@ apiVersion: v1alpha1
 items:
   - path: /component/aviation/runway
     source: https://github.com/ysitd-cloud/aviation-runway
+  - path: /component/aviation/sky
+    source: https://github.com/ysitd-cloud/aviation-sky
