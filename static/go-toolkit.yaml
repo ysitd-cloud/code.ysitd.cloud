@@ -5,3 +5,7 @@ items:
     source: https://github.com/ysitd-cloud/go-toolkit-feature
   - path: /toolkit/log
     source: https://github.com/ysitd-cloud/go-toolkit-log
+  - path: /toolkit/blob
+    source: https://github.com/ysitd-cloud/go-toolkit-blob
+  - path: /toolkit/cache
+    source: https://github.com/ysitd-cloud/go-toolkit-cache
