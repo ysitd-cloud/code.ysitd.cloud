@@ -3,6 +3,10 @@ apiVersion: v1alpha1
 items:
   - path: /common/go
     source: https://github.com/ysitd-cloud/go-common
+  - path: /component/exposer
+    source: https://github.com/ysitd-cloud/exposer
+  - path: /component/exposer/client
+    source: https://github.com/ysitd-cloud/exposer
   - path: /component/account
     source: https://github.com/ysitd-cloud/account
   - path: /component/deployer
