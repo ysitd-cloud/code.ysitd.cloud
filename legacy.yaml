@@ -1,0 +1,13 @@
+packages:
+  - path: /component/account
+    source: https://github.com/ysitd-cloud/account
+  - path: /common/go
+    source: https://github.com/ysitd-cloud/go-common
+  - path: /gin/sessions
+    source: https://github.com/ysitd-cloud/gin-sessions
+  - path: /gin/utils
+    source: https://github.com/ysitd-cloud/gin-utils
+  - path: /grpc/schema
+    source: https://github.com/ysitd-cloud/grpc-schema
+  - path: /k8s/utils/go
+    source: https://github.com/ysitd-cloud/k8s-utils

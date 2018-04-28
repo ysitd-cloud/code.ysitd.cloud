@@ -1,16 +1,14 @@
 sudo: false
-language: python
+language: go
 
-cache: pip
-
-python:
-  - "3.6"
+go:
+  - '1.10.1'
 
 install:
-  - pip install -r requirements.txt
+  - go get golang.ysitd.cloud/tools/importer
 
 script:
-  - python build.py
+  - importer code.ysitd.cloud packages.yaml
 
 deploy:
   provider: pages
