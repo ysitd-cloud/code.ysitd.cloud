@@ -16,3 +16,9 @@ packages:
     subpackage:
       - account
       - deployer
+  - path: /gin/utils
+    source: https://github.com/ysitd-cloud/gin-utils
+    subpackage:
+      - env
+      - interfaces
+      - net
