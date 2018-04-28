@@ -15,6 +15,8 @@ packages:
     source: https://github.com/ysitd-cloud/grpc-schema
     subpackage:
       - account
+      - account/models
+      - account/actions
       - deployer
   - path: /gin/utils
     source: https://github.com/ysitd-cloud/gin-utils
@@ -22,3 +24,14 @@ packages:
       - env
       - interfaces
       - net
+  - path: /gin/sessions
+    source: https://github.com/ysitd-cloud/gin-sessions
+    subpackage:
+      - cookie
+      - etcd
+      - redis
+  - path: /common/go
+    source: https://github.com/ysitd-cloud/go-common
+    subpackage:
+      - db
+      - flag
