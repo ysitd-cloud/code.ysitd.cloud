@@ -1,0 +1,3 @@
+packages:
+  - source: https://github.com/ysitd-cloud/client-account
+    path: /client/account

@@ -2,3 +2,4 @@ packages: []
 includes:
   - legacy.yaml
   - api.yaml
+  - client.yaml
