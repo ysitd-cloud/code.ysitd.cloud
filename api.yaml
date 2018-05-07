@@ -1,3 +1,5 @@
 packages:
   - source: https://github.com/ysitd-cloud/api-account
     path: /api/account
+  - source: https://github.com/ysitd-cloud/api-totp
+    path: /api/totp
