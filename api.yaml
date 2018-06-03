@@ -7,3 +7,5 @@ packages:
     path: /api/builder
   - source: https://github.com/ysitd-cloud/api-iam
     path: /api/iam
+    subpackages:
+      - modals
