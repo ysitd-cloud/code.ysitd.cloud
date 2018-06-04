@@ -5,7 +5,7 @@ packages:
     path: /api/totp
   - source: https://github.com/ysitd-cloud/api-builder
     path: /api/builder
-  - source: https://github.com/ysitd-cloud/api-iam
+  - source: git@gitlab.com:ysitd-cloud/api-iam.git
     path: /api/iam
     subpackages:
       - modals
